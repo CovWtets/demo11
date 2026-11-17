@@ -1,0 +1,24 @@
+Alle Fotos: Unsplash (https://unsplash.com/license), kostenlose Lizenz, kommerzielle Nutzung erlaubt, keine Namensnennung Pflicht.
+Geprüft 17.11.2026: alle Seiten zeigen „Free to use under the Unsplash License“, kein Unsplash+, nicht gesponsert.
+Quelle jeweils https://images.unsplash.com/photo-<ID>
+
+hero.jpg      1783125127143-d4e18726bab3  Salvo Media LLC     unsplash.com/photos/W7XqqixNnII  (weißes Haus, Einfahrt)
+epoxy.jpg     1766801075605-8c036a5c4ec3  Dani (@shotbydani)  unsplash.com/photos/3sOetxQ10wg  (Garage mit Flake-Boden, Gatlinburg TN)
+washing.jpg   1707897283727-31befe824066  The ProClean Team   unsplash.com/photos/kQHsQmLLV2I  (Einfahrt abspritzen)
+polish.jpg    1780558852670-3f49298ecc1f  Luay Barani         unsplash.com/photos/iXpjQNP__EQ  (Poliermaschine)
+wax.jpg       1708805282706-f44730b7e527  Zac Nielson         unsplash.com/photos/CsZjHjFN3N8  (Wachsen, Pelham AL)
+interior.jpg  1732357624591-f2137085659b  Muhammad Saad       unsplash.com/photos/_vmBjTG5L1g  (Lenkrad, Innenraum)
+tire.jpg      1708805282683-50a060eba80f  Zac Nielson         unsplash.com/photos/8k_T1EwTySs  (Reifenbürste, Pelham AL)
+
+ACHTUNG für eine Live-Seite:
+- washing.jpg: erkennbare Person, Logo auf dem Shirt (vermutlich ProClean, eine echte Reinigungsfirma) – nicht als eigenes Team ausgeben, durch eigene Fotos ersetzen.
+- epoxy.jpg: kleine Personen im Hintergrund, Ort Tennessee – nicht als eigene Arbeit ausgeben.
+- Alle Fotos sind Stockfotos, keine Arbeiten von Clearview. Für die echte Seite durch deren Instagram-Fotos ersetzen.
+
+Ergänzt 17.11.2026 (v3):
+band.jpg       1762933855598-273a51b47649  Clarence Tioh       unsplash.com/photos/kQdY2pR-ic8  (dunkles Auto mit Schaum)
+ig-garage.jpg  = epoxy.jpg (quadratisch)    ig-polish.jpg = polish.jpg (quadratisch)
+ig-foam.jpg    1781890424630-ea9e1f931f08  Sem Ramon           unsplash.com/photos/jVm9stv6UpE
+ig-surface.jpg 1718152421680-d1580e843cc9  The Graphic Space   unsplash.com/photos/kLZs4yoR0uU  (Arbeiter mit Logo auf der Mütze)
+ig-parking.jpg 1704786450243-fe590b6bc9d3  Koen meyssen        (geprüft 09.11. in jc-custom-coatings)
+Galerie (früher „On Instagram“) zeigt nur Stockfotos – für die Live-Seite durch echte Fotos ersetzen.
